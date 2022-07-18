@@ -9,6 +9,8 @@
 
 * _C#_
 * _.NET_
+* _HTML_
+* _CSS_
 
 ---
 ## Description
@@ -36,7 +38,10 @@ Navigate to
    ├── <strong>ProjectName</strong>
    └── ProjectName.Tests</pre>
 
-```sh
+```
+$ dotnet restore
+```
+```
 $ dotnet run
 ```
 </details>
@@ -48,10 +53,10 @@ Navigate to
     ├── ProjectName
     └── <strong>ProjectName.Tests</strong></pre>
 
-```sh
+```
 $ dotnet restore
 ```
-```sh
+```
 $ dotnet test
 ```
 
