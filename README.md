@@ -25,7 +25,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 <li>Install <em>Microsoft .NET SDK<em></li>
 <li>Clone the repo
 
-```sh
+```
 $ git clone
 ```
 </li>
